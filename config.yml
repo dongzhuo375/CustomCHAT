@@ -1,0 +1,8 @@
+player-left: "<"
+#玩家名左侧的信息
+message-left: ">"
+#内容左侧的信息
+message-right: ""
+#内容右侧的信息,player在message左侧
+#玩家个人信息同上，开启将2改为1
+#别忘了一定要写在""里面
